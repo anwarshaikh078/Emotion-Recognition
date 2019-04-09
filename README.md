@@ -29,7 +29,7 @@ Step 4: Run model.py file
 
 ## Deep Learning Model
 The model used is from this [research paper](https://github.com/oarriaga/face_classification/blob/master/report.pdf) written by Octavio Arriaga, Paul G. Plöger, and Matias Valdenegro.
-[!picture](https://github.com/anwarshaikh078/Emotion-Recognition/blob/master/modelimg.JPG)
+![picture alt](https://github.com/anwarshaikh078/Emotion-Recognition/blob/master/modelimg.JPG)
 
 Credit
 * Computer vision powered by OpenCV.
